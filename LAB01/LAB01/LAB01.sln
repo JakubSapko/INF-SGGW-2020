@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Funkcja_zwracajaca_liczbe_zmiennoprzecinkowa", "LAB01\3.Funkcja_zwracajaca_liczbe_zmiennoprzecinkowa.csproj", "{4D283839-C3B2-4603-859A-86A7CDB378DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Funkcja_zwracajaca_liczbe_zmiennoprzecinkowa", "LAB01\3_Funkcja_zwracajaca_liczbe_zmiennoprzecinkowa.csproj", "{4D283839-C3B2-4603-859A-86A7CDB378DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Funkcja_dodajaca_dwie_liczby", "4.Funkcja_dodajaca_dwie_liczby\4.Funkcja_dodajaca_dwie_liczby.csproj", "{E5295293-AFE1-410C-9A77-2A023F037E8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Funkcja_dodajaca_dwie_liczby", "4.Funkcja_dodajaca_dwie_liczby\4_Funkcja_dodajaca_dwie_liczby.csproj", "{E5295293-AFE1-410C-9A77-2A023F037E8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Funkcja_obliczajca_wyrazenie", "5_Funkcja_obliczajca_wyrazenie\5_Funkcja_obliczajca_wyrazenie.csproj", "{B7FF406D-C362-4B27-A5BF-8F5DB2553D4F}"
 EndProject
