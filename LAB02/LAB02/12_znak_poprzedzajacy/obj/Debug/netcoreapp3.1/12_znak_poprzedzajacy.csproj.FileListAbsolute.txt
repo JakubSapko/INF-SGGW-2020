@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\bin\Debug\netcoreapp3.1\12_znak_poprzedzajacy.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\bin\Debug\netcoreapp3.1\12_znak_poprzedzajacy.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\bin\Debug\netcoreapp3.1\12_znak_poprzedzajacy.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\bin\Debug\netcoreapp3.1\12_znak_poprzedzajacy.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\bin\Debug\netcoreapp3.1\12_znak_poprzedzajacy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\bin\Debug\netcoreapp3.1\12_znak_poprzedzajacy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\obj\Debug\netcoreapp3.1\12_znak_poprzedzajacy.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\obj\Debug\netcoreapp3.1\12_znak_poprzedzajacy.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\obj\Debug\netcoreapp3.1\12_znak_poprzedzajacy.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\obj\Debug\netcoreapp3.1\12_znak_poprzedzajacy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\obj\Debug\netcoreapp3.1\12_znak_poprzedzajacy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\12_znak_poprzedzajacy\obj\Debug\netcoreapp3.1\12_znak_poprzedzajacy.genruntimeconfig.cache

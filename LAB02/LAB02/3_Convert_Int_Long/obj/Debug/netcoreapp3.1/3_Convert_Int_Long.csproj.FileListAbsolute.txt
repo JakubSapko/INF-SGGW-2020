@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\bin\Debug\netcoreapp3.1\3_Convert_Int_Long.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\bin\Debug\netcoreapp3.1\3_Convert_Int_Long.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\bin\Debug\netcoreapp3.1\3_Convert_Int_Long.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\bin\Debug\netcoreapp3.1\3_Convert_Int_Long.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\bin\Debug\netcoreapp3.1\3_Convert_Int_Long.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\bin\Debug\netcoreapp3.1\3_Convert_Int_Long.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\3_Convert_Int_Long\obj\Debug\netcoreapp3.1\3_Convert_Int_Long.genruntimeconfig.cache

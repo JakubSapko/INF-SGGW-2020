@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\bin\Debug\netcoreapp3.1\1_Dodaj_liczby_int.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\bin\Debug\netcoreapp3.1\1_Dodaj_liczby_int.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\bin\Debug\netcoreapp3.1\1_Dodaj_liczby_int.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\bin\Debug\netcoreapp3.1\1_Dodaj_liczby_int.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\bin\Debug\netcoreapp3.1\1_Dodaj_liczby_int.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\bin\Debug\netcoreapp3.1\1_Dodaj_liczby_int.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\1_Dodaj_liczby_int\obj\Debug\netcoreapp3.1\1_Dodaj_liczby_int.genruntimeconfig.cache

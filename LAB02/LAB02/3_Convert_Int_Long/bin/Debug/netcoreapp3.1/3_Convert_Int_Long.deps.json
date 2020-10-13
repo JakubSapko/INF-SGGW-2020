@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3_Convert_Int_Long/1.0.0": {
+        "runtime": {
+          "3_Convert_Int_Long.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_Convert_Int_Long/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

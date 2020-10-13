@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\bin\Debug\netcoreapp3.1\11_Parzystosc.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\bin\Debug\netcoreapp3.1\11_Parzystosc.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\bin\Debug\netcoreapp3.1\11_Parzystosc.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\bin\Debug\netcoreapp3.1\11_Parzystosc.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\bin\Debug\netcoreapp3.1\11_Parzystosc.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\bin\Debug\netcoreapp3.1\11_Parzystosc.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\obj\Debug\netcoreapp3.1\11_Parzystosc.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\obj\Debug\netcoreapp3.1\11_Parzystosc.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\obj\Debug\netcoreapp3.1\11_Parzystosc.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\obj\Debug\netcoreapp3.1\11_Parzystosc.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\obj\Debug\netcoreapp3.1\11_Parzystosc.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\11_Parzystosc\obj\Debug\netcoreapp3.1\11_Parzystosc.genruntimeconfig.cache

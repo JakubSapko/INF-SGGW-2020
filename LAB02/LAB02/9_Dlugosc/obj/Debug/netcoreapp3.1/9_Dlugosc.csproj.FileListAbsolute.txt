@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\bin\Debug\netcoreapp3.1\9_Dlugosc.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\bin\Debug\netcoreapp3.1\9_Dlugosc.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\bin\Debug\netcoreapp3.1\9_Dlugosc.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\bin\Debug\netcoreapp3.1\9_Dlugosc.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\bin\Debug\netcoreapp3.1\9_Dlugosc.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\bin\Debug\netcoreapp3.1\9_Dlugosc.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\obj\Debug\netcoreapp3.1\9_Dlugosc.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\obj\Debug\netcoreapp3.1\9_Dlugosc.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\obj\Debug\netcoreapp3.1\9_Dlugosc.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\obj\Debug\netcoreapp3.1\9_Dlugosc.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\obj\Debug\netcoreapp3.1\9_Dlugosc.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\9_Dlugosc\obj\Debug\netcoreapp3.1\9_Dlugosc.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\bin\Debug\netcoreapp3.1\2_Konwersja_long_int.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\bin\Debug\netcoreapp3.1\2_Konwersja_long_int.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\bin\Debug\netcoreapp3.1\2_Konwersja_long_int.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\bin\Debug\netcoreapp3.1\2_Konwersja_long_int.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\bin\Debug\netcoreapp3.1\2_Konwersja_long_int.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\bin\Debug\netcoreapp3.1\2_Konwersja_long_int.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB02\LAB02\2_Konwersja_long_int\obj\Debug\netcoreapp3.1\2_Konwersja_long_int.genruntimeconfig.cache
