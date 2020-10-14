@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praca_domowa_2_Zad_2", "Pra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praca_domowa_2_Zad_3", "Praca_domowa_2_Zad_3\Praca_domowa_2_Zad_3.csproj", "{076435CD-FACE-48EE-8BDA-13C6EADEFEEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praca_domowa_2_Zadanie_dodatkowe", "Praca_domowa_2_Zadanie_dodatkowe\Praca_domowa_2_Zadanie_dodatkowe.csproj", "{C0DB056B-B906-48C4-8B70-6BB5E370FE2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{076435CD-FACE-48EE-8BDA-13C6EADEFEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{076435CD-FACE-48EE-8BDA-13C6EADEFEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{076435CD-FACE-48EE-8BDA-13C6EADEFEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DB056B-B906-48C4-8B70-6BB5E370FE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DB056B-B906-48C4-8B70-6BB5E370FE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DB056B-B906-48C4-8B70-6BB5E370FE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DB056B-B906-48C4-8B70-6BB5E370FE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

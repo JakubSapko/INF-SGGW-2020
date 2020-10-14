@@ -1,0 +1,10 @@
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\bin\Debug\Praca_domowa_2_Zadanie_dodatkowe.exe.config
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\bin\Debug\Praca_domowa_2_Zadanie_dodatkowe.exe
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\bin\Debug\Praca_domowa_2_Zadanie_dodatkowe.pdb
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.Form1.resources
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.Properties.Resources.resources
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.csproj.GenerateResource.cache
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.exe
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_2_Zadanie_dodatkowe\obj\Debug\Praca_domowa_2_Zadanie_dodatkowe.pdb
