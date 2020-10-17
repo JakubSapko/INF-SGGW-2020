@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "8_Czy_duza_litera/1.0.0": {
+        "runtime": {
+          "8_Czy_duza_litera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8_Czy_duza_litera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

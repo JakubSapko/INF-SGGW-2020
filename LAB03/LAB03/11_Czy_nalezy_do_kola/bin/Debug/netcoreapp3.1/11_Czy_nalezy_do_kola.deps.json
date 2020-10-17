@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "11_Czy_nalezy_do_kola/1.0.0": {
+        "runtime": {
+          "11_Czy_nalezy_do_kola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_Czy_nalezy_do_kola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

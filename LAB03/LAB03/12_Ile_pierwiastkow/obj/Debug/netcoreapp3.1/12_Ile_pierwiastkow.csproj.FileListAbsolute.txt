@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\bin\Debug\netcoreapp3.1\12_Ile_pierwiastkow.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\bin\Debug\netcoreapp3.1\12_Ile_pierwiastkow.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\bin\Debug\netcoreapp3.1\12_Ile_pierwiastkow.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\bin\Debug\netcoreapp3.1\12_Ile_pierwiastkow.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\bin\Debug\netcoreapp3.1\12_Ile_pierwiastkow.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\bin\Debug\netcoreapp3.1\12_Ile_pierwiastkow.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\obj\Debug\netcoreapp3.1\12_Ile_pierwiastkow.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\obj\Debug\netcoreapp3.1\12_Ile_pierwiastkow.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\obj\Debug\netcoreapp3.1\12_Ile_pierwiastkow.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\obj\Debug\netcoreapp3.1\12_Ile_pierwiastkow.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\obj\Debug\netcoreapp3.1\12_Ile_pierwiastkow.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\12_Ile_pierwiastkow\obj\Debug\netcoreapp3.1\12_Ile_pierwiastkow.genruntimeconfig.cache

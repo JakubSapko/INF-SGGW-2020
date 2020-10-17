@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\bin\Debug\netcoreapp3.1\10_Czy_cyfra.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\bin\Debug\netcoreapp3.1\10_Czy_cyfra.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\bin\Debug\netcoreapp3.1\10_Czy_cyfra.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\bin\Debug\netcoreapp3.1\10_Czy_cyfra.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\bin\Debug\netcoreapp3.1\10_Czy_cyfra.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\bin\Debug\netcoreapp3.1\10_Czy_cyfra.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\obj\Debug\netcoreapp3.1\10_Czy_cyfra.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\obj\Debug\netcoreapp3.1\10_Czy_cyfra.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\obj\Debug\netcoreapp3.1\10_Czy_cyfra.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\obj\Debug\netcoreapp3.1\10_Czy_cyfra.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\obj\Debug\netcoreapp3.1\10_Czy_cyfra.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\10_Czy_cyfra\obj\Debug\netcoreapp3.1\10_Czy_cyfra.genruntimeconfig.cache

@@ -31,8 +31,9 @@ namespace Praca_domowa_2_Zadanie_dodatkowe
 
         private double ObliczSol()
         {
-            return ObliczObjetosc() * 0.035;
+            return ObliczObjetosc() * 0.035*997;
         }
+
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Objetosc wody w basenie wynosi: " + Convert.ToString(ObliczObjetosc()) + " m3\nNatomiast masa soli: " + Convert.ToString(ObliczSol()) + "kg");

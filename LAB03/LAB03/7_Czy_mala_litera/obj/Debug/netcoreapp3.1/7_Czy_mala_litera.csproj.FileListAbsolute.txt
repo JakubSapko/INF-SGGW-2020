@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\bin\Debug\netcoreapp3.1\7_Czy_mala_litera.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\bin\Debug\netcoreapp3.1\7_Czy_mala_litera.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\bin\Debug\netcoreapp3.1\7_Czy_mala_litera.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\bin\Debug\netcoreapp3.1\7_Czy_mala_litera.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\bin\Debug\netcoreapp3.1\7_Czy_mala_litera.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\bin\Debug\netcoreapp3.1\7_Czy_mala_litera.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\obj\Debug\netcoreapp3.1\7_Czy_mala_litera.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\obj\Debug\netcoreapp3.1\7_Czy_mala_litera.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\obj\Debug\netcoreapp3.1\7_Czy_mala_litera.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\obj\Debug\netcoreapp3.1\7_Czy_mala_litera.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\obj\Debug\netcoreapp3.1\7_Czy_mala_litera.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\7_Czy_mala_litera\obj\Debug\netcoreapp3.1\7_Czy_mala_litera.genruntimeconfig.cache

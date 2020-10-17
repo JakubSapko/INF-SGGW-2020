@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\bin\Debug\netcoreapp3.1\14_Zwroc_napis.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\bin\Debug\netcoreapp3.1\14_Zwroc_napis.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\bin\Debug\netcoreapp3.1\14_Zwroc_napis.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\bin\Debug\netcoreapp3.1\14_Zwroc_napis.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\bin\Debug\netcoreapp3.1\14_Zwroc_napis.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\bin\Debug\netcoreapp3.1\14_Zwroc_napis.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\obj\Debug\netcoreapp3.1\14_Zwroc_napis.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\obj\Debug\netcoreapp3.1\14_Zwroc_napis.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\obj\Debug\netcoreapp3.1\14_Zwroc_napis.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\obj\Debug\netcoreapp3.1\14_Zwroc_napis.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\obj\Debug\netcoreapp3.1\14_Zwroc_napis.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\14_Zwroc_napis\obj\Debug\netcoreapp3.1\14_Zwroc_napis.genruntimeconfig.cache

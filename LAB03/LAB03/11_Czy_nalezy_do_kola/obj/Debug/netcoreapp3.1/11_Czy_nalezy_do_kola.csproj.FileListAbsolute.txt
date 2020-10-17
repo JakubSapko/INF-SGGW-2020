@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\bin\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\bin\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\bin\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\bin\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\bin\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\bin\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\obj\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\obj\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\obj\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\obj\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\obj\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\11_Czy_nalezy_do_kola\obj\Debug\netcoreapp3.1\11_Czy_nalezy_do_kola.genruntimeconfig.cache

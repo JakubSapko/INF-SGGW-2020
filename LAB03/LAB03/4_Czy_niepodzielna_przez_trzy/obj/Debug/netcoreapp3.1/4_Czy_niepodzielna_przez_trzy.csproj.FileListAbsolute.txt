@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\bin\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\bin\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\bin\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\bin\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\bin\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\bin\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\4_Czy_niepodzielna_przez_trzy\obj\Debug\netcoreapp3.1\4_Czy_niepodzielna_przez_trzy.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\bin\Debug\netcoreapp3.1\13_Czy_takie_same.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\bin\Debug\netcoreapp3.1\13_Czy_takie_same.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\bin\Debug\netcoreapp3.1\13_Czy_takie_same.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\bin\Debug\netcoreapp3.1\13_Czy_takie_same.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\bin\Debug\netcoreapp3.1\13_Czy_takie_same.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\bin\Debug\netcoreapp3.1\13_Czy_takie_same.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\obj\Debug\netcoreapp3.1\13_Czy_takie_same.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\obj\Debug\netcoreapp3.1\13_Czy_takie_same.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\obj\Debug\netcoreapp3.1\13_Czy_takie_same.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\obj\Debug\netcoreapp3.1\13_Czy_takie_same.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\obj\Debug\netcoreapp3.1\13_Czy_takie_same.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\13_Czy_takie_same\obj\Debug\netcoreapp3.1\13_Czy_takie_same.genruntimeconfig.cache

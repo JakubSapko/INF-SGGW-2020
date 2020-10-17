@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\bin\Debug\netcoreapp3.1\9_Czy_litera.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\bin\Debug\netcoreapp3.1\9_Czy_litera.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\bin\Debug\netcoreapp3.1\9_Czy_litera.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\bin\Debug\netcoreapp3.1\9_Czy_litera.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\bin\Debug\netcoreapp3.1\9_Czy_litera.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\bin\Debug\netcoreapp3.1\9_Czy_litera.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\obj\Debug\netcoreapp3.1\9_Czy_litera.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\obj\Debug\netcoreapp3.1\9_Czy_litera.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\obj\Debug\netcoreapp3.1\9_Czy_litera.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\obj\Debug\netcoreapp3.1\9_Czy_litera.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\obj\Debug\netcoreapp3.1\9_Czy_litera.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\9_Czy_litera\obj\Debug\netcoreapp3.1\9_Czy_litera.genruntimeconfig.cache

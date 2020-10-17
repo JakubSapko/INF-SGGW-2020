@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\bin\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\bin\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\bin\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\bin\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\bin\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\bin\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\obj\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\obj\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\obj\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\obj\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\obj\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB03\1_Czy_zero\6_Czy_parzysta_dodatnia_niepodzielna\obj\Debug\netcoreapp3.1\6_Czy_parzysta_dodatnia_niepodzielna.genruntimeconfig.cache
