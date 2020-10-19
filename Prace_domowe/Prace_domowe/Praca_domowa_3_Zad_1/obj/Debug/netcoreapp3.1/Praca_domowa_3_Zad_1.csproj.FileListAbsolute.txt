@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\bin\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.exe
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\bin\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\bin\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\bin\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\bin\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.dll
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\bin\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.pdb
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.dll
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.pdb
+C:\Users\jakub\Desktop\WDPINF2020\Prace_domowe\Prace_domowe\Praca_domowa_3_Zad_1\obj\Debug\netcoreapp3.1\Praca_domowa_3_Zad_1.genruntimeconfig.cache
