@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\11_Czy_nalezy_do_kola\\11_Czy_nalezy_do_kola.csproj",
+      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\11_Czy_nalezy_do_kola\\11_Czy_nalezy_do_kola.csproj",
       "projectName": "11_Czy_nalezy_do_kola",
-      "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\11_Czy_nalezy_do_kola\\11_Czy_nalezy_do_kola.csproj",
+      "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\11_Czy_nalezy_do_kola\\11_Czy_nalezy_do_kola.csproj",
       "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\11_Czy_nalezy_do_kola\\obj\\",
+      "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\11_Czy_nalezy_do_kola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

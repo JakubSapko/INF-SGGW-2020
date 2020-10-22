@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj",
         "projectName": "4_Czy_niepodzielna_przez_trzy",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\4_Czy_niepodzielna_przez_trzy\\4_Czy_niepodzielna_przez_trzy.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\4_Czy_niepodzielna_przez_trzy\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\4_Czy_niepodzielna_przez_trzy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

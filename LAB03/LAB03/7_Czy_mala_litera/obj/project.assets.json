@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\7_Czy_mala_litera\\7_Czy_mala_litera.csproj",
+      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\7_Czy_mala_litera\\7_Czy_mala_litera.csproj",
       "projectName": "7_Czy_mala_litera",
-      "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\7_Czy_mala_litera\\7_Czy_mala_litera.csproj",
+      "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\7_Czy_mala_litera\\7_Czy_mala_litera.csproj",
       "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\7_Czy_mala_litera\\obj\\",
+      "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\7_Czy_mala_litera\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

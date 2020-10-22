@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\1_Czy_zero\\1_Czy_zero.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\1_Czy_zero\\1_Czy_zero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\1_Czy_zero\\1_Czy_zero.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\1_Czy_zero\\1_Czy_zero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\1_Czy_zero\\1_Czy_zero.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\1_Czy_zero\\1_Czy_zero.csproj",
         "projectName": "1_Czy_zero",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\1_Czy_zero\\1_Czy_zero.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\1_Czy_zero\\1_Czy_zero.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\1_Czy_zero\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\1_Czy_zero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

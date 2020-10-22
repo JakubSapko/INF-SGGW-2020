@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\13_Czy_takie_same\\13_Czy_takie_same.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\13_Czy_takie_same\\13_Czy_takie_same.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\13_Czy_takie_same\\13_Czy_takie_same.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\13_Czy_takie_same\\13_Czy_takie_same.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\13_Czy_takie_same\\13_Czy_takie_same.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\13_Czy_takie_same\\13_Czy_takie_same.csproj",
         "projectName": "13_Czy_takie_same",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\13_Czy_takie_same\\13_Czy_takie_same.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\13_Czy_takie_same\\13_Czy_takie_same.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\13_Czy_takie_same\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\13_Czy_takie_same\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

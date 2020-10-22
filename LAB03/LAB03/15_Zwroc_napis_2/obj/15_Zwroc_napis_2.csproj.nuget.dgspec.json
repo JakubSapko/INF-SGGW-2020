@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj",
         "projectName": "15_Zwroc_napis_2",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\15_Zwroc_napis_2\\15_Zwroc_napis_2.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\15_Zwroc_napis_2\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\15_Zwroc_napis_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

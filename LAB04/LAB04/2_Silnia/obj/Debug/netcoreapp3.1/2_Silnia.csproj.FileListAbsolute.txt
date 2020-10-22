@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\bin\Debug\netcoreapp3.1\2_Silnia.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\bin\Debug\netcoreapp3.1\2_Silnia.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\bin\Debug\netcoreapp3.1\2_Silnia.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\bin\Debug\netcoreapp3.1\2_Silnia.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\bin\Debug\netcoreapp3.1\2_Silnia.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\bin\Debug\netcoreapp3.1\2_Silnia.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\2_Silnia\obj\Debug\netcoreapp3.1\2_Silnia.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\6_Czy_parzysta_dodatnia_niepodzielna\\6_Czy_parzysta_dodatnia_niepodzielna.csproj",
+      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\6_Czy_parzysta_dodatnia_niepodzielna\\6_Czy_parzysta_dodatnia_niepodzielna.csproj",
       "projectName": "6_Czy_parzysta_dodatnia_niepodzielna",
-      "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\6_Czy_parzysta_dodatnia_niepodzielna\\6_Czy_parzysta_dodatnia_niepodzielna.csproj",
+      "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\6_Czy_parzysta_dodatnia_niepodzielna\\6_Czy_parzysta_dodatnia_niepodzielna.csproj",
       "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\6_Czy_parzysta_dodatnia_niepodzielna\\obj\\",
+      "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\6_Czy_parzysta_dodatnia_niepodzielna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

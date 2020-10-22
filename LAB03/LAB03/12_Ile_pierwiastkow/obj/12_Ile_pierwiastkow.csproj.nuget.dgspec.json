@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj",
         "projectName": "12_Ile_pierwiastkow",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\12_Ile_pierwiastkow\\12_Ile_pierwiastkow.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\12_Ile_pierwiastkow\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\12_Ile_pierwiastkow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj",
         "projectName": "5_Czy_parzysta_dodatnia",
-        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\5_Czy_parzysta_dodatnia\\5_Czy_parzysta_dodatnia.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\1_Czy_zero\\5_Czy_parzysta_dodatnia\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\LAB03\\LAB03\\5_Czy_parzysta_dodatnia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",

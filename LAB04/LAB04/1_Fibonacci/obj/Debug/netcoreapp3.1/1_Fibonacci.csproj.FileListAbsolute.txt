@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\bin\Debug\netcoreapp3.1\1_Fibonacci.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\bin\Debug\netcoreapp3.1\1_Fibonacci.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\bin\Debug\netcoreapp3.1\1_Fibonacci.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\bin\Debug\netcoreapp3.1\1_Fibonacci.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\bin\Debug\netcoreapp3.1\1_Fibonacci.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\bin\Debug\netcoreapp3.1\1_Fibonacci.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB04\LAB04\1_Fibonacci\obj\Debug\netcoreapp3.1\1_Fibonacci.genruntimeconfig.cache
