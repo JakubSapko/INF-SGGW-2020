@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\bin\Debug\netcoreapp3.1\4_Suma.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\bin\Debug\netcoreapp3.1\4_Suma.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\bin\Debug\netcoreapp3.1\4_Suma.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\bin\Debug\netcoreapp3.1\4_Suma.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\bin\Debug\netcoreapp3.1\4_Suma.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\bin\Debug\netcoreapp3.1\4_Suma.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\4_Suma\obj\Debug\netcoreapp3.1\4_Suma.genruntimeconfig.cache
