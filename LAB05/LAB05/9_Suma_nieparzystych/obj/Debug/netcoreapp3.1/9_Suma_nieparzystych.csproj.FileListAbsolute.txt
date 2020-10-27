@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\bin\Debug\netcoreapp3.1\9_Suma_nieparzystych.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\bin\Debug\netcoreapp3.1\9_Suma_nieparzystych.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\bin\Debug\netcoreapp3.1\9_Suma_nieparzystych.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\bin\Debug\netcoreapp3.1\9_Suma_nieparzystych.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\bin\Debug\netcoreapp3.1\9_Suma_nieparzystych.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\bin\Debug\netcoreapp3.1\9_Suma_nieparzystych.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.genruntimeconfig.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\9_Suma_nieparzystych\obj\Debug\netcoreapp3.1\9_Suma_nieparzystych.csprojAssemblyReference.cache
