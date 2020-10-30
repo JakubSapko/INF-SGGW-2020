@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\bin\Debug\netcoreapp3.1\P1_char_napis.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\bin\Debug\netcoreapp3.1\P1_char_napis.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\bin\Debug\netcoreapp3.1\P1_char_napis.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\bin\Debug\netcoreapp3.1\P1_char_napis.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\bin\Debug\netcoreapp3.1\P1_char_napis.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\bin\Debug\netcoreapp3.1\P1_char_napis.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\obj\Debug\netcoreapp3.1\P1_char_napis.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\obj\Debug\netcoreapp3.1\P1_char_napis.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\obj\Debug\netcoreapp3.1\P1_char_napis.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\obj\Debug\netcoreapp3.1\P1_char_napis.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\obj\Debug\netcoreapp3.1\P1_char_napis.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P1_char_napis\obj\Debug\netcoreapp3.1\P1_char_napis.genruntimeconfig.cache

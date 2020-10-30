@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\bin\Debug\netcoreapp3.1\P3_Najwieksza.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\bin\Debug\netcoreapp3.1\P3_Najwieksza.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\bin\Debug\netcoreapp3.1\P3_Najwieksza.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\bin\Debug\netcoreapp3.1\P3_Najwieksza.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\bin\Debug\netcoreapp3.1\P3_Najwieksza.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\bin\Debug\netcoreapp3.1\P3_Najwieksza.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\obj\Debug\netcoreapp3.1\P3_Najwieksza.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\obj\Debug\netcoreapp3.1\P3_Najwieksza.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\obj\Debug\netcoreapp3.1\P3_Najwieksza.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\obj\Debug\netcoreapp3.1\P3_Najwieksza.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\obj\Debug\netcoreapp3.1\P3_Najwieksza.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB05\LAB05\P3_Najwieksza\obj\Debug\netcoreapp3.1\P3_Najwieksza.genruntimeconfig.cache
