@@ -1,0 +1,12 @@
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\bin\Debug\netcoreapp3.1\P4_Silnia.exe
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\bin\Debug\netcoreapp3.1\P4_Silnia.deps.json
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\bin\Debug\netcoreapp3.1\P4_Silnia.runtimeconfig.json
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\bin\Debug\netcoreapp3.1\P4_Silnia.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\bin\Debug\netcoreapp3.1\P4_Silnia.dll
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\bin\Debug\netcoreapp3.1\P4_Silnia.pdb
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\obj\Debug\netcoreapp3.1\P4_Silnia.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\obj\Debug\netcoreapp3.1\P4_Silnia.AssemblyInfo.cs
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\obj\Debug\netcoreapp3.1\P4_Silnia.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\obj\Debug\netcoreapp3.1\P4_Silnia.dll
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\obj\Debug\netcoreapp3.1\P4_Silnia.pdb
+C:\Users\jakub\source\repos\LAB06\P4_Silnia\obj\Debug\netcoreapp3.1\P4_Silnia.genruntimeconfig.cache

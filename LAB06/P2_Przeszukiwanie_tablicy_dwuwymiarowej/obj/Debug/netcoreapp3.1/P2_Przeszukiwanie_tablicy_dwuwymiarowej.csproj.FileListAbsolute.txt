@@ -1,0 +1,13 @@
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\bin\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.exe
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\bin\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.deps.json
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\bin\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.runtimeconfig.json
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\bin\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\bin\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.dll
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\bin\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.pdb
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.AssemblyInfo.cs
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.dll
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.pdb
+C:\Users\jakub\source\repos\LAB06\P2_Przeszukiwanie_tablicy_dwuwymiarowej\obj\Debug\netcoreapp3.1\P2_Przeszukiwanie_tablicy_dwuwymiarowej.genruntimeconfig.cache

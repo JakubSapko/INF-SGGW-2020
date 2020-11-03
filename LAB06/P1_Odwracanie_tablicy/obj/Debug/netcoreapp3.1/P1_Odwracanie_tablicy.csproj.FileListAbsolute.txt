@@ -1,0 +1,13 @@
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\bin\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.exe
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\bin\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.deps.json
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\bin\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.runtimeconfig.json
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\bin\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\bin\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.dll
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\bin\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.pdb
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.AssemblyInfo.cs
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.dll
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.pdb
+C:\Users\jakub\source\repos\LAB06\P1_Odwracanie_tablicy\obj\Debug\netcoreapp3.1\P1_Odwracanie_tablicy.genruntimeconfig.cache
