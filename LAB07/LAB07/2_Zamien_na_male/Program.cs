@@ -4,6 +4,17 @@ namespace RunCode
 {
     class Program
     {
+        static bool Sprawdz(char[] ar, char litera)
+        {
+            for (int i = 0; i<ar.Length; i++)
+            {
+                if (ar[i] == litera)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
         static string ZamienNaMale(string tekst)
         {
             string wyjscie = "";
@@ -11,9 +22,9 @@ namespace RunCode
             char[] polskie_wielkie = new char[] { 'Ą', 'Ć', 'Ę', 'Ź', 'Ł', 'Ń', 'Ó', 'Ż', 'Ś' };
             for (int i = 0; i<tekst.Length; i++)
             {
-                if (tekst[i] >= 65 && tekst[i] <= 90 || Array.Exists(polskie_wielkie, element => element==tekst[i]))
+                if (tekst[i] >= 65 && tekst[i] <= 90 || Sprawdz(polskie_wielkie, tekst[i]))
                 {
-                    if (Array.Exists(polskie_wielkie, element => element == tekst[i]))
+                    if (Sprawdz(polskie_wielkie, tekst[i]))
                     {
                         for (int j = 0; j < polskie_wielkie.Length; j++)
                         {
