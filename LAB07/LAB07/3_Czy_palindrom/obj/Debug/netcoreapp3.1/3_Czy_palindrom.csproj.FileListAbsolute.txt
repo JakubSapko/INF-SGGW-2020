@@ -1,0 +1,16 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\3_Czy_palindrom.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\3_Czy_palindrom.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\3_Czy_palindrom.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\3_Czy_palindrom.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\3_Czy_palindrom.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\3_Czy_palindrom.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\Moja.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\bin\Debug\netcoreapp3.1\Moja.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.csproj.CopyComplete
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\3_Czy_palindrom\obj\Debug\netcoreapp3.1\3_Czy_palindrom.genruntimeconfig.cache

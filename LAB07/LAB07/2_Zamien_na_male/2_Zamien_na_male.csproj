@@ -6,4 +6,8 @@
     <RootNamespace>_2_Zamien_na_male</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Moja\Moja.csproj" />
+  </ItemGroup>
+
 </Project>

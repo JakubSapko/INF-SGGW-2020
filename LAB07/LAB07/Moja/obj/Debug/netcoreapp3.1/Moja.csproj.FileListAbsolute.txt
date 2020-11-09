@@ -1,0 +1,9 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\bin\Debug\netcoreapp3.1\Moja.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\bin\Debug\netcoreapp3.1\Moja.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\bin\Debug\netcoreapp3.1\Moja.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\obj\Debug\netcoreapp3.1\Moja.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\obj\Debug\netcoreapp3.1\Moja.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\obj\Debug\netcoreapp3.1\Moja.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\obj\Debug\netcoreapp3.1\Moja.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\obj\Debug\netcoreapp3.1\Moja.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB07\LAB07\Moja\obj\Debug\netcoreapp3.1\Moja.pdb

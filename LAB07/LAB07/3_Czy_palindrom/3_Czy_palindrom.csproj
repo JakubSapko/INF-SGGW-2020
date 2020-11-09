@@ -6,4 +6,8 @@
     <RootNamespace>_3_Czy_palindrom</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Moja\Moja.csproj" />
+  </ItemGroup>
+
 </Project>

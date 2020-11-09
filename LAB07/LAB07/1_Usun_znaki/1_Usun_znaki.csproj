@@ -6,4 +6,8 @@
     <RootNamespace>_1_Usun_znaki</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Moja\Moja.csproj" />
+  </ItemGroup>
+
 </Project>
