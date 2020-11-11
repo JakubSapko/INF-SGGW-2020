@@ -1,0 +1,16 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Liczba.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Liczba.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Liczba.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Liczba.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Liczba.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Liczba.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Metody.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\bin\Debug\netcoreapp3.1\Metody.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.csproj.CopyComplete
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Liczba\obj\Debug\netcoreapp3.1\Liczba.genruntimeconfig.cache

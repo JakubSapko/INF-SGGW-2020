@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\bin\Debug\netcoreapp3.1\Macierz.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\bin\Debug\netcoreapp3.1\Macierz.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\bin\Debug\netcoreapp3.1\Macierz.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\bin\Debug\netcoreapp3.1\Macierz.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\bin\Debug\netcoreapp3.1\Macierz.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\bin\Debug\netcoreapp3.1\Macierz.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Macierz\obj\Debug\netcoreapp3.1\Macierz.genruntimeconfig.cache
