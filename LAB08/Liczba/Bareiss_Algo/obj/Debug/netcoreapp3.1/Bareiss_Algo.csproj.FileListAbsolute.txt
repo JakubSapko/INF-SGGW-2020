@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\bin\Debug\netcoreapp3.1\Bareiss_Algo.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\bin\Debug\netcoreapp3.1\Bareiss_Algo.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\bin\Debug\netcoreapp3.1\Bareiss_Algo.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\bin\Debug\netcoreapp3.1\Bareiss_Algo.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\bin\Debug\netcoreapp3.1\Bareiss_Algo.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\bin\Debug\netcoreapp3.1\Bareiss_Algo.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Bareiss_Algo\obj\Debug\netcoreapp3.1\Bareiss_Algo.genruntimeconfig.cache

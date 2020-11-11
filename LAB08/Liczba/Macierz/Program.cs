@@ -59,7 +59,7 @@ namespace Macierz
                 sw.Close();
             }
         }
-        static int[,] OdczytajTablicę(string path)
+        /*static int[,] OdczytajTablicę(string path)
         {
             StreamReader sr = null;
             try
@@ -88,13 +88,13 @@ namespace Macierz
                     sr.Close();
                 }
             }
-        }
+        }*/
         static void Main(string[] args)
         {
             string path = "C:\\Users\\jakub\\Desktop\\deeznuts.txt";
             WyswietlMacierz(Macierz(3));
             Zapisz(Macierz(3), path);
-            WyswietlMacierz(OdczytajTablicę(path));
+            //WyswietlMacierz(OdczytajTablicę(path));
         }
     }
 }

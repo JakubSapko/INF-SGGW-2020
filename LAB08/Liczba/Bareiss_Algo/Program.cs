@@ -37,12 +37,30 @@ namespace Bareiss_Algo
         /// <param name="step">Numer kroku który wykonujemy. Step number</param>
         static void Compute(int[,] matrix, int number_of_columns, int step)
         {
-
+            for (int i = step + 1; i <= number_of_columns; i++)
+            {
+                for (int j = step + 1; j <= number_of_columns; j++)
+                {
+                    int minEnd = matrix[step, step] * matrix[i, j];
+                    int subtr = matrix[i, step] * matrix[step, j];
+                    int result = (minEnd - subtr) / (step == 0 ? 1 : matrix[step - 1, step - 1]);
+                    matrix[i, j] = result;
+                }
+            }
         }
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Dummy data
+            int[,] matrix = new int[,]
+            {
+                {1, 2, 3, 4, 5 },
+                {0, 2, 6, 7, 10 },
+                {1, 2, 0, 0, 3 },
+                {1, 1, 3, 2, 2 },
+                {3, 2, 3, 5, 6}
+            };
+            Console.WriteLine($"Wyznacznik macierz: {Determinant(matrix)}");
         }
     }
 }

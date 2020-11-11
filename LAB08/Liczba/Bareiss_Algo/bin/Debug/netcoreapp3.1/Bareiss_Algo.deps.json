@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bareiss_Algo/1.0.0": {
+        "runtime": {
+          "Bareiss_Algo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bareiss_Algo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
