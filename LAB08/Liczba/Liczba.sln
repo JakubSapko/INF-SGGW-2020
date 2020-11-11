@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Macierz", "Macierz\Macierz.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bareiss_Algo", "Bareiss_Algo\Bareiss_Algo.csproj", "{67C3E960-A49C-4D1F-9537-B8E20BB61392}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromy", "Palindromy\Palindromy.csproj", "{6C248A67-2528-435D-B138-F1AE3D7D6F0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{67C3E960-A49C-4D1F-9537-B8E20BB61392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67C3E960-A49C-4D1F-9537-B8E20BB61392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67C3E960-A49C-4D1F-9537-B8E20BB61392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C248A67-2528-435D-B138-F1AE3D7D6F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C248A67-2528-435D-B138-F1AE3D7D6F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C248A67-2528-435D-B138-F1AE3D7D6F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C248A67-2528-435D-B138-F1AE3D7D6F0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
