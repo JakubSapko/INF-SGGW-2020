@@ -32,7 +32,7 @@ namespace Bareiss_Algo
         /// Oblicza jeden krok algorytmu Bareissa
         /// Computes one step of the Bareiss Algorithm
         /// </summary>
-        /// <param name="matrix">Macierz dla której szukamy wyzniacznka. Matrix which determinant is calculated.</param>
+        /// <param name="matrix">Macierz dla której szukamy wyznacznika. Matrix which determinant is calculated.</param>
         /// <param name="number_of_columns">Liczba kolumn macierzy. Number of columns in matrix</param>
         /// <param name="step">Numer kroku który wykonujemy. Step number</param>
         static void Compute(int[,] matrix, int number_of_columns, int step)
@@ -43,7 +43,7 @@ namespace Bareiss_Algo
                 {
                     int minEnd = matrix[step, step] * matrix[i, j];
                     int subtr = matrix[i, step] * matrix[step, j];
-                    int result = (minEnd - subtr) / (step == 0 ? 1 : matrix[step - 1, step - 1]);
+                    int result = (minEnd - subtr) / (step == 0 ? 1 : matrix[step - 1, step - 1]);//divide by 1 if step == 0, else divide by matrix[step-1, step-1];
                     matrix[i, j] = result;
                 }
             }
