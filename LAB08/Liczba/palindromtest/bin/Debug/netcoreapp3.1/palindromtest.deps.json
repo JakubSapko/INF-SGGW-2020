@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "palindromtest/1.0.0": {
+        "dependencies": {
+          "Palindromy": "1.0.0"
+        },
+        "runtime": {
+          "palindromtest.dll": {}
+        }
+      },
+      "Palindromy/1.0.0": {
+        "runtime": {
+          "Palindromy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "palindromtest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Palindromy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

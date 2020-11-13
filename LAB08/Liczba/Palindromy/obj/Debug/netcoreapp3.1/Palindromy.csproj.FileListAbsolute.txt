@@ -1,0 +1,9 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\bin\Debug\netcoreapp3.1\Palindromy.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\bin\Debug\netcoreapp3.1\Palindromy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\bin\Debug\netcoreapp3.1\Palindromy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\obj\Debug\netcoreapp3.1\Palindromy.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\obj\Debug\netcoreapp3.1\Palindromy.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\obj\Debug\netcoreapp3.1\Palindromy.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\obj\Debug\netcoreapp3.1\Palindromy.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\obj\Debug\netcoreapp3.1\Palindromy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\Palindromy\obj\Debug\netcoreapp3.1\Palindromy.pdb

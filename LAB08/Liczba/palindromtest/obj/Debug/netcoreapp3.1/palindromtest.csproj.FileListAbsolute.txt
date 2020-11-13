@@ -1,0 +1,16 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\palindromtest.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\palindromtest.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\palindromtest.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\palindromtest.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\palindromtest.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\palindromtest.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\Palindromy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\bin\Debug\netcoreapp3.1\Palindromy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.csproj.CopyComplete
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB08\Liczba\palindromtest\obj\Debug\netcoreapp3.1\palindromtest.genruntimeconfig.cache

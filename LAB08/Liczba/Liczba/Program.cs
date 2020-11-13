@@ -49,10 +49,10 @@ namespace Liczba
         }
         static void Main(string[] args)
         {
-            Zapisz(10, @"C:\Users\jakub\Desktop\dupa.txt");
-            Console.WriteLine(OdczytajLiczbę(@"C:\users\jakub\Desktop\dupa.txt"));
-            Zapisz(42, @"C:\Users\jakub\Desktop\dupa.txt");
-            Console.WriteLine(OdczytajLiczbę(@"C:\Users\jakub\Desktop\dupa.txt"));
+            Zapisz(10, @"C:\Users\jakub\Desktop\test.txt");
+            Console.WriteLine(OdczytajLiczbę(@"C:\users\jakub\Desktop\test.txt"));
+            Zapisz(42, @"C:\Users\jakub\Desktop\test.txt");
+            Console.WriteLine(OdczytajLiczbę(@"C:\Users\jakub\Desktop\test.txt"));
         }
     }
 }
