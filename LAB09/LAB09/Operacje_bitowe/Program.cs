@@ -43,6 +43,22 @@ namespace Operacje_bitowe
             }
             return counter;
         }
+
+        static int IleJedynekRek(ulong liczba)
+        {
+            if (liczba == 0)
+            {
+                return 0;
+            }
+            if ((liczba & 1) == 1)
+            {
+                return 1 + IleJedynekRek(liczba >> 1);
+            }
+            else
+            {
+                return IleJedynekRek(liczba >> 1);
+            }
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -51,6 +67,7 @@ namespace Operacje_bitowe
             Console.WriteLine(ZwrocBinarnieAryt(liczba));
             Console.WriteLine(ZwrocBinarnieBit(liczba));
             Console.WriteLine(IleJedynekItr(liczba2));
+            Console.WriteLine(IleJedynekRek(liczba2));
 
 
         }
