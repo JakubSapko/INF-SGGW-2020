@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Palindromy
 {
@@ -120,5 +121,81 @@ namespace Palindromy
             }
             return ZwrocTabliceWyrazow(tekst);
         }
+        public static string OdwrocString(string tekst)
+        {
+            int dlg = tekst.Length;
+            string reversed = "";
+            for (int i = 1; i <= dlg; i++)
+            {
+                reversed += tekst[dlg - i];
+            }
+            return reversed;
+        }
+        public static string ZamienNaMale(string tekst)
+        {
+            string wyjscie = "";
+            char[] polskie_male = new char[] { 'ą', 'ć', 'ę', 'ź', 'ł', 'ń', 'ó', 'ż', 'ś' };
+            char[] polskie_wielkie = new char[] { 'Ą', 'Ć', 'Ę', 'Ź', 'Ł', 'Ń', 'Ó', 'Ż', 'Ś' };
+            for (int i = 0; i < tekst.Length; i++)
+            {
+                if (tekst[i] >= 65 && tekst[i] <= 90 || Sprawdz(polskie_wielkie, tekst[i]))
+                {
+                    if (Sprawdz(polskie_wielkie, tekst[i]))
+                    {
+                        for (int j = 0; j < polskie_wielkie.Length; j++)
+                        {
+                            if (tekst[i] == polskie_wielkie[j])
+                            {
+                                wyjscie += polskie_male[j];
+                            }
+
+                        }
+                    }
+                    else
+                    {
+                        wyjscie += Convert.ToChar(Convert.ToInt32(tekst[i]) + 32);
+                    }
+                }
+                else
+                {
+                    wyjscie += tekst[i];
+                }
+            }
+            return wyjscie;
+        }
+        public static bool CzyPalindrom(string Word)
+        {
+            string newWord = ZamienNaMale(UsunZnaki(Word));
+            string reversed = OdwrocString(newWord);
+            if (newWord == reversed)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public static void ZnajdzPalindromy(string path)
+        {
+            StreamReader sr = new StreamReader(path);
+            string[] palindromy = { };
+            string[] lines = File.ReadAllLines(path);
+            foreach (string line in lines)
+            {
+                string linia = UsunPodwojneSpacje(UsunZnaki(line));
+                int wymiar = IleWyrazow(linia);
+                string[] slowa = ZwrocTabliceWyrazow(linia);
+                for (int i = 0; i<slowa.Length; i++)
+                {
+                    if (CzyPalindrom(slowa[i]))
+                    {
+                        palindromy
+                    }
+                }
+            }
+        }
+
     }
 }

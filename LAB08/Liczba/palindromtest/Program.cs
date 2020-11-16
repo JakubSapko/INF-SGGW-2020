@@ -9,7 +9,8 @@ namespace palindromtest
 
         static void Main(string[] args)
         {
-            string test = "Ela - filut to dogoni";
+            string path = "C:\\Users\\jakub\\Desktop\\palindrom.txt";
+            /* test = "Ela - filut to dogoni";
             string test2 = "pies pies kot kot cebula";
             Console.WriteLine(test);
             Console.WriteLine(Palindrom.UsunZnaki(test));
@@ -25,7 +26,8 @@ namespace palindromtest
             for (int j = 0; j < test2_wyjscie.Length; j++)
             {
                 Console.WriteLine(test2_wyjscie[j]);
-            }
+            }*/
+            Palindrom.ZnajdzPalindromy(path);
         }
     }
 }

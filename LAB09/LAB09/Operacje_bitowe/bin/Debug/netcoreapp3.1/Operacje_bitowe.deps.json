@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Operacje_bitowe/1.0.0": {
+        "runtime": {
+          "Operacje_bitowe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operacje_bitowe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

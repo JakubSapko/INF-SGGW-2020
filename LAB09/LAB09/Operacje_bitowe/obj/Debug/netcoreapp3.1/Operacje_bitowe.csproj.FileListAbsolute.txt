@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\bin\Debug\netcoreapp3.1\Operacje_bitowe.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\bin\Debug\netcoreapp3.1\Operacje_bitowe.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\bin\Debug\netcoreapp3.1\Operacje_bitowe.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\bin\Debug\netcoreapp3.1\Operacje_bitowe.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\bin\Debug\netcoreapp3.1\Operacje_bitowe.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\bin\Debug\netcoreapp3.1\Operacje_bitowe.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB09\LAB09\Operacje_bitowe\obj\Debug\netcoreapp3.1\Operacje_bitowe.genruntimeconfig.cache
