@@ -59,16 +59,25 @@ namespace Operacje_bitowe
                 return IleJedynekRek(liczba >> 1);
             }
         }
+
+        static uint UstawBit(uint stara_wartosc_rejestru, int ktory_bit, int wartosc)
+        {
+            int mask = 1 << ktory_bit;
+            return (uint)((stara_wartosc_rejestru & ~mask) | ((wartosc << ktory_bit) & mask));
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             ulong liczba = 5;
             uint liczba2 = 5;
+            int mask = 1 << 2;
+            Console.WriteLine(mask);
+            Console.WriteLine(~mask);
+            liczba2 = UstawBit(liczba2, 1, 1);
+            Console.WriteLine(liczba2);
             Console.WriteLine(ZwrocBinarnieAryt(liczba));
             Console.WriteLine(ZwrocBinarnieBit(liczba));
             Console.WriteLine(IleJedynekItr(liczba2));
             Console.WriteLine(IleJedynekRek(liczba2));
-
 
         }
     }
