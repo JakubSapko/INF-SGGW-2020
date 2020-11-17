@@ -33,13 +33,11 @@ namespace Operacje_bitowe
         static int IleJedynekItr(uint liczba)
         {
             int counter = 0;
-            string binarna = ZwrocBinarnieBit(liczba);
-            for (int i = 0; i<binarna.Length; i++)
+            //string binarna = ZwrocBinarnieBit(liczba);
+            for (int i = 0; i<32; i++)
             {
-                if (binarna[i] == '1')
-                {
-                    counter++;
-                }
+                if ((liczba & (1<<i)) != 0) { counter++; }
+                liczba = liczba >> 1;
             }
             return counter;
         }
@@ -60,25 +58,44 @@ namespace Operacje_bitowe
             }
         }
 
-        static uint UstawBit(uint stara_wartosc_rejestru, int ktory_bit, int wartosc)
+        static uint UstawBit(int stara_wartosc_rejestru, int ktory_bit, int wartosc)
         {
             int mask = 1 << ktory_bit;
             return (uint)((stara_wartosc_rejestru & ~mask) | ((wartosc << ktory_bit) & mask));
         }
+        static int ZwrocNaBitach(int number){
+            return ((1 << 4) - 1) & (number >> 6);
+        }
+
+        //do poprawy 
+        static uint TemperaturaWody(uint rejest)
+        {
+            string rejest_bit = ZwrocBinarnieBit(rejest);
+            int bity = ZwrocNaBitach(Convert.ToInt16(rejest_bit));
+            Console.WriteLine(rejest_bit);
+            Console.WriteLine(bity);
+            return 0;
+        }
+
+
         static void Main(string[] args)
         {
             ulong liczba = 5;
             uint liczba2 = 5;
             int mask = 1 << 2;
-            Console.WriteLine(mask);
-            Console.WriteLine(~mask);
-            liczba2 = UstawBit(liczba2, 1, 1);
-            Console.WriteLine(liczba2);
-            Console.WriteLine(ZwrocBinarnieAryt(liczba));
-            Console.WriteLine(ZwrocBinarnieBit(liczba));
-            Console.WriteLine(IleJedynekItr(liczba2));
-            Console.WriteLine(IleJedynekRek(liczba2));
-
+            //Console.WriteLine(mask);
+            //Console.WriteLine(~mask);
+            //liczba2 = UstawBit(liczba2, 1, 1);
+            //Console.WriteLine(liczba2);
+            //Console.WriteLine(ZwrocBinarnieAryt(liczba));
+            //Console.WriteLine(ZwrocBinarnieBit(liczba));
+            //Console.WriteLine(IleJedynekItr(liczba2));
+            //Console.WriteLine(IleJedynekRek(liczba2));
+            int dana = 1024;
+            //Console.WriteLine(ZwrocBinarnieBit(dana));
+            //Console.WriteLine(ZwrocBinarnieBit((ulong)dana));
+            //Console.WriteLine(ZwrocNaBitach(dana));
+            TemperaturaWody((uint)dana);
         }
     }
 }
