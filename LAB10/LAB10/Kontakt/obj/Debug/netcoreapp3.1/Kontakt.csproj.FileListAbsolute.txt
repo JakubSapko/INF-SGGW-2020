@@ -1,0 +1,13 @@
+C:\Users\jakub\source\repos\LAB10\Kontakt\bin\Debug\netcoreapp3.1\Kontakt.exe
+C:\Users\jakub\source\repos\LAB10\Kontakt\bin\Debug\netcoreapp3.1\Kontakt.deps.json
+C:\Users\jakub\source\repos\LAB10\Kontakt\bin\Debug\netcoreapp3.1\Kontakt.runtimeconfig.json
+C:\Users\jakub\source\repos\LAB10\Kontakt\bin\Debug\netcoreapp3.1\Kontakt.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\LAB10\Kontakt\bin\Debug\netcoreapp3.1\Kontakt.dll
+C:\Users\jakub\source\repos\LAB10\Kontakt\bin\Debug\netcoreapp3.1\Kontakt.pdb
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.AssemblyInfo.cs
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.dll
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.pdb
+C:\Users\jakub\source\repos\LAB10\Kontakt\obj\Debug\netcoreapp3.1\Kontakt.genruntimeconfig.cache
