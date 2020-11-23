@@ -227,6 +227,13 @@ namespace Kontakt
             }
             return counter;
         }
+
+        static BazaKontaktów Kopiuj(BazaKontaktów bazaKontaktów)
+        {
+            Kontakt[] baza_nowa = new Kontakt[bazaKontaktów.licznik - 1];
+            baza_nowa = bazaKontaktów.kontakty;
+            return baza_nowa;
+        }
         static void Main(string[] args)
         {
 
