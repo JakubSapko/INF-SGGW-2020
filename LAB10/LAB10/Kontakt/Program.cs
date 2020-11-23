@@ -4,6 +4,7 @@ namespace Kontakt
 {
     class Program
     {
+        //Struktura Kontakt//
         public struct Kontakt
         {
             public string imie;
@@ -35,26 +36,6 @@ namespace Kontakt
                 this.numerTelefonu = numerTelefonu;
                 this.tajneDane = tajneDane;
                 this.PIN = PIN;
-            }
-            public string ZwróćInformacje()
-            {
-                return imie + " " + nazwisko + " " + numerTelefonu;
-            }
-
-            public void Edytuj()
-            {
-                string imie_podane;
-                string nazwisko_podane;
-                int numerTelefonu_podany;
-                Console.WriteLine("Podaj imie:");
-                imie_podane = Console.ReadLine();
-                Console.WriteLine("Podaj nazwisko:");
-                nazwisko_podane = Console.ReadLine();
-                Console.WriteLine("Podaj numer telefonu:");
-                numerTelefonu_podany = Convert.ToInt32(Console.ReadLine());
-                imie = imie_podane;
-                nazwisko = nazwisko_podane;
-                numerTelefonu = numerTelefonu_podany;
             }
 
             public bool Autoryzuj(int PIN)
@@ -90,6 +71,43 @@ namespace Kontakt
                 }
             }
         }
+        static string ZwróćInformacje(Kontakt k)
+        {
+            return k.imie + " " + k.nazwisko + " " + k.numerTelefonu;
+        }
+        static void Edytuj(ref Kontakt k)
+        {
+            string imie_podane;
+            string nazwisko_podane;
+            int numerTelefonu_podany;
+            Console.WriteLine("Podaj imie:");
+            imie_podane = Console.ReadLine();
+            Console.WriteLine("Podaj nazwisko:");
+            nazwisko_podane = Console.ReadLine();
+            Console.WriteLine("Podaj numer telefonu:");
+            numerTelefonu_podany = Convert.ToInt32(Console.ReadLine());
+            k.imie = imie_podane;
+            k.nazwisko = nazwisko_podane;
+            k.numerTelefonu = numerTelefonu_podany;
+        }
+
+        //Struktura BazaKontaktów//
+        struct BazaKontaktów
+        {
+            Kontakt[] kontakty;
+            int licznik;
+
+            public BazaKontaktów(int rozmiar)
+            {
+                licznik = 0;
+                kontakty = new Kontakt[rozmiar];
+            }
+        }
+
+        /*static void DodajDoBazy(ref BazaKontaktów bazaKontaktów, Kontakt k)
+        {
+            if (bazaKontaktów.licznik<bazaKontaktów.kontakty.Length)
+        }*/
         static void Main(string[] args)
         {
             Kontakt my = new Kontakt();
