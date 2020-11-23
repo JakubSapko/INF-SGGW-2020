@@ -94,8 +94,8 @@ namespace Kontakt
         //Struktura BazaKontaktów//
         struct BazaKontaktów
         {
-            Kontakt[] kontakty;
-            int licznik;
+            public Kontakt[] kontakty;
+            public int licznik;
 
             public BazaKontaktów(int rozmiar)
             {
@@ -104,22 +104,134 @@ namespace Kontakt
             }
         }
 
-        /*static void DodajDoBazy(ref BazaKontaktów bazaKontaktów, Kontakt k)
+        static void DodajDoBazy(ref BazaKontaktów baza, Kontakt k)
         {
-            if (bazaKontaktów.licznik<bazaKontaktów.kontakty.Length)
-        }*/
+            if (baza.licznik < baza.kontakty.Length)
+            {
+                baza.kontakty[baza.licznik] = k;
+                baza.licznik++;
+            }
+            else
+            {
+                Kontakt[] bazakontaktów = new Kontakt[baza.licznik + 1];
+                for(int i = 0; i<baza.licznik; i++)
+                {
+                    bazakontaktów[i] = baza.kontakty[i];
+                }
+                bazakontaktów[baza.licznik] = k;
+                baza.licznik++;
+                baza.kontakty = bazakontaktów;
+            }
+        }
+
+        static void WypiszBazę(BazaKontaktów baza)
+        {
+            for(int i = 0; i<baza.licznik; i++)
+            {
+                Console.WriteLine(baza.kontakty[i]);
+            }
+        }
+
+        static void UsuńZBazy(ref BazaKontaktów baza, int i)
+        {
+            Kontakt[] baza_nowa = new Kontakt[baza.licznik - 1];
+            for(int j = 0; j<baza.licznik; j++)
+            {
+                if (j != i)
+                {
+                    baza_nowa[j] = baza.kontakty[j];
+                }
+                else
+                {
+
+                }
+            }
+            baza.licznik--;
+            baza.kontakty = baza_nowa;
+        }
+
+        static int ZwróćIndeks(BazaKontaktów bazaKontaktów, string nazwisko, string imię)
+        {
+            for(int i = 0; i<bazaKontaktów.kontakty.Length; i++)
+            {
+                if (bazaKontaktów.kontakty[i].imie == imię && bazaKontaktów.kontakty[i].nazwisko == nazwisko)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        void UsuńZBazy(ref BazaKontaktów bazaKontaktów, string imię, string nazwisko)
+        {
+            Kontakt[] baza_nowa = new Kontakt[bazaKontaktów.licznik - 1];
+            int indeks = ZwróćIndeks(bazaKontaktów, imię, nazwisko);
+            for(int i = 0; i<bazaKontaktów.licznik; i++)
+            {
+                if (i != indeks)
+                {
+                    baza_nowa[i] = bazaKontaktów.kontakty[i];
+                }
+                else
+                {
+
+                }
+            }
+            bazaKontaktów.licznik--;
+            bazaKontaktów.kontakty = baza_nowa;
+        }
+
+        static bool CzyIstniejeImie(BazaKontaktów bazaKontaktów, string imię)
+        {
+            for(int i = 0; i<bazaKontaktów.licznik; i++)
+            {
+                if(bazaKontaktów.kontakty[i].imie == imię)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        static bool CzyIstniejeNazwisko(BazaKontaktów bazaKontaktów, string nazwisko)
+        {
+            for (int i = 0; i < bazaKontaktów.licznik; i++)
+            {
+                if (bazaKontaktów.kontakty[i].nazwisko == nazwisko)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        static bool CzyIstniejeNumer(BazaKontaktów bazaKontaktów, int numer)
+        {
+            for (int i = 0; i < bazaKontaktów.licznik; i++)
+            {
+                if (bazaKontaktów.kontakty[i].numerTelefonu == numer)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        static int IleKontatkow(BazaKontaktów bazaKontatków, string imię)
+        {
+            int counter = 0;
+            for(int i = 0; i<bazaKontatków.licznik; i++)
+            {
+                if (bazaKontatków.kontakty[i].imie == imię)
+                {
+                    counter++;
+                }
+            }
+            return counter;
+        }
         static void Main(string[] args)
         {
-            Kontakt my = new Kontakt();
-            my.Edytuj();
-            my.pin = 1234;
-            my.tajne = "pies";
-            Console.WriteLine(my.ZwróćInformacje());
-            Console.WriteLine(my.Autoryzuj(1234));
-            my.ZmieńPIN(1234, 5235);
-            Console.WriteLine(my.Autoryzuj(1234));
-            Console.WriteLine(my.Autoryzuj(5235));
-            Console.WriteLine(my.ZwróćTajne(5235));
+
+            
+         
         }
     }
 }
