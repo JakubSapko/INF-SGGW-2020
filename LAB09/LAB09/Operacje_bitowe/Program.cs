@@ -63,18 +63,16 @@ namespace Operacje_bitowe
             int mask = 1 << ktory_bit;
             return (uint)((stara_wartosc_rejestru & ~mask) | ((wartosc << ktory_bit) & mask));
         }
-        static int ZwrocNaBitach(int number){
-            return ((1 << 4) - 1) & (number >> 6);
-        }
-
         //do poprawy 
+        static uint ZwrocLiczbeZBitow_7_11(uint rejestr)
+        {
+            rejestr >>= 7;
+            return rejestr & 0x1F;
+        }
         static uint TemperaturaWody(uint rejest)
         {
-            string rejest_bit = ZwrocBinarnieBit(rejest);
-            int bity = ZwrocNaBitach(Convert.ToInt16(rejest_bit));
-            Console.WriteLine(rejest_bit);
-            Console.WriteLine(bity);
-            return 0;
+            uint bity = ZwrocLiczbeZBitow_7_11(rejest);
+            return bity;
         }
 
 
