@@ -11,3 +11,16 @@ C:\Users\jakub\source\repos\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.csproj.Cor
 C:\Users\jakub\source\repos\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.dll
 C:\Users\jakub\source\repos\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.pdb
 C:\Users\jakub\source\repos\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.genruntimeconfig.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\bin\Debug\netcoreapp3.1\Klasy.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\bin\Debug\netcoreapp3.1\Klasy.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\bin\Debug\netcoreapp3.1\Klasy.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\bin\Debug\netcoreapp3.1\Klasy.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\bin\Debug\netcoreapp3.1\Klasy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\bin\Debug\netcoreapp3.1\Klasy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB11\LAB11\Klasy\obj\Debug\netcoreapp3.1\Klasy.genruntimeconfig.cache
