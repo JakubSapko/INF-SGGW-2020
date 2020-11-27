@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\bin\Debug\netcoreapp3.1\Lista_jednokierunkowa.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\bin\Debug\netcoreapp3.1\Lista_jednokierunkowa.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\bin\Debug\netcoreapp3.1\Lista_jednokierunkowa.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\bin\Debug\netcoreapp3.1\Lista_jednokierunkowa.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\bin\Debug\netcoreapp3.1\Lista_jednokierunkowa.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\bin\Debug\netcoreapp3.1\Lista_jednokierunkowa.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\LAB12\Lista_jednokierunkowa\obj\Debug\netcoreapp3.1\Lista_jednokierunkowa.genruntimeconfig.cache
