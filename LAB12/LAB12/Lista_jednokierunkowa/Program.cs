@@ -111,6 +111,11 @@ namespace Lista_jednokierunkowa
             Console.WriteLine("Liczba elementów na liście " + mojaLista.ZwróćRozmiar());
             mojaLista.OdczytajListę("lista.txt");
             Console.WriteLine("Liczba elementów na liście " + mojaLista.ZwróćRozmiar());
+
+            for (int i = 0; i < 4; i++)
+            {
+                Console.WriteLine("Usuwam: " + mojaLista.UsuńZGłowy());
+            }
             Console.ReadKey();
         }
     }

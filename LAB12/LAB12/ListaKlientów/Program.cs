@@ -17,7 +17,6 @@ namespace ListaKlientów
             this.typPłatności = typPłatności;
             this.doZapłaty = doZapłaty;
         }
-
         public string ZwrocDane()
         {
             return nazwisko + " " + liczbaProduktów + " " + typPłatności + " " + doZapłaty;
@@ -70,11 +69,33 @@ namespace ListaKlientów
             }
         }
 
-        class Program
-    {
-        static void Main(string[] args)
+        public int ZwróćRozmiar()
         {
-            Console.WriteLine("Hello World!");
+            int licznik = 0;
+            for (Węzeł tmp = głowa; tmp != null; tmp = tmp.następny)
+            {
+                licznik++;
+            }
+            return licznik;
+        }
+        public Klient UsuńZGłowy()
+        {
+            Klient tmp;
+            if (głowa != null) // sprawdzamy, czy lista nie jest pusta
+            {
+                tmp = głowa.klient;
+                głowa = głowa.następny;
+                return tmp;
+            }
+            else
+                throw new Exception("Lista pusta!");
         }
     }
+        class Program
+        {
+        static void Main(string[] args)
+            {
+                Console.WriteLine("Hello World!");
+            }
+        }
 }
