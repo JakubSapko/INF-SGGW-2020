@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\bin\Debug\netcoreapp3.1\ListaKolejka.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\bin\Debug\netcoreapp3.1\ListaKolejka.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\bin\Debug\netcoreapp3.1\ListaKolejka.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\bin\Debug\netcoreapp3.1\ListaKolejka.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\bin\Debug\netcoreapp3.1\ListaKolejka.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\bin\Debug\netcoreapp3.1\ListaKolejka.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB12\ListaKolejka\ListaKolejka\obj\Debug\netcoreapp3.1\ListaKolejka.genruntimeconfig.cache
