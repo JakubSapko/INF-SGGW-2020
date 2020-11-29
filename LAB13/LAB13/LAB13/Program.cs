@@ -264,6 +264,44 @@ namespace ListaKlientów
             currX.następny = currY.następny;
             currY.następny = temp;
         }
+        public void Wstaw(Klient k, int indeks)
+        {
+            Węzeł temp = new Węzeł();
+            temp.klient = k;
+            temp.następny = null;
+            if(głowa == null)
+            {
+                if (indeks != 0)
+                {
+                    return;
+                }
+                else
+                {
+                    głowa = temp;
+                }
+            }
+            if(głowa!=null && indeks == 0)
+            {
+                temp.następny = głowa;
+                głowa = temp;
+                return;
+            }
+            Węzeł cur = głowa;
+            Węzeł pre = null;
+            int i = 0;
+            while (i < indeks)
+            {
+                pre = cur;
+                cur = cur.następny;
+                if(cur == null)
+                {
+                    break;
+                }
+                i++;
+            }
+            temp.następny = cur;
+            pre.następny = temp;
+        }
     }
     class Program
     {
@@ -274,6 +312,7 @@ namespace ListaKlientów
             Klient b = new Klient("Nowak", 1, TypPłatności.BonTowarowy, 10);
             Klient c = new Klient("Kowalski", 1, TypPłatności.BonTowarowy, 10);
             Klient d = new Klient("Dupa", 1, TypPłatności.BonTowarowy, 10);
+            Klient e = new Klient("Dupsko", 1, TypPłatności.Gotówka, 10);
             mojaLista.DodajDoGłowy(a);
             mojaLista.DodajDoGłowy(b);
             mojaLista.DodajDoGłowy(c);
@@ -281,6 +320,9 @@ namespace ListaKlientów
             mojaLista.Wyświetl();
             Console.WriteLine(mojaLista.Wyszukaj("Dupa"));
             mojaLista.Zamień("Sapko", "Dupa");
+            mojaLista.Wyświetl();
+            mojaLista.Wstaw(e, 3);
+            Console.WriteLine("----");
             mojaLista.Wyświetl();
             //mojaLista.Zapisz("dupsko.txt");
         }
