@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.genruntimeconfig.cache
