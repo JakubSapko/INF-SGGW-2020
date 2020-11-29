@@ -8,9 +8,9 @@ namespace ListaKlientów
     public class Klient
     {
         public string nazwisko;
-        int liczbaProduktów;
-        TypPłatności typPłatności;
-        double doZapłaty;
+        public int liczbaProduktów;
+        public TypPłatności typPłatności;
+        public double doZapłaty;
         public Klient(string nazwisko, int liczbaProduktów, TypPłatności typPłatności, double doZapłaty)
         {
             this.nazwisko = nazwisko;
@@ -301,6 +301,38 @@ namespace ListaKlientów
             }
             temp.następny = cur;
             pre.następny = temp;
+        }
+        public int Maksimum()
+        {
+            Węzeł tmp = głowa;
+            double maks = głowa.klient.doZapłaty;
+            int indeks = Wyszukaj(głowa.klient.nazwisko);
+            for(int i = 0; i<ZwróćRozmiar(); i++)
+            {
+                tmp = tmp.następny;
+                if (tmp.klient.doZapłaty > maks)
+                {
+                    maks = tmp.klient.doZapłaty;
+                    indeks = Wyszukaj(tmp.klient.nazwisko);
+                }
+            }
+            return indeks;
+        }
+        public int Minimum()
+        {
+            Węzeł tmp = głowa;
+            double min = głowa.klient.doZapłaty;
+            int indeks = Wyszukaj(głowa.klient.nazwisko);
+            for (int i = 0; i < ZwróćRozmiar(); i++)
+            {
+                tmp = tmp.następny;
+                if (tmp.klient.doZapłaty < min)
+                {
+                    min = tmp.klient.doZapłaty;
+                    indeks = Wyszukaj(tmp.klient.nazwisko);
+                }
+            }
+            return indeks;
         }
     }
     class Program
