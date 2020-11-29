@@ -334,6 +334,33 @@ namespace ListaKlientów
             }
             return indeks;
         }
+        public void Sort()
+        {
+            Węzeł cur = głowa, index = null;
+            Klient temp;
+            if (głowa == null)
+            {
+                return;
+            }
+            else
+            {
+                while (cur != null)
+                {
+                    index = cur.następny;
+                    while (index != null)
+                    {
+                        if (cur.klient.doZapłaty > index.klient.doZapłaty)
+                        {
+                            temp = cur.klient;
+                            cur.klient = index.klient;
+                            index.klient = temp;
+                        }
+                        index = index.następny;
+                    }
+                    cur = cur.następny;
+                }
+            }
+        }
     }
     class Program
     {
@@ -341,10 +368,10 @@ namespace ListaKlientów
         {
             Kolejka mojaLista = new Kolejka();
             Klient a = new Klient("Sapko", 1, TypPłatności.BonTowarowy, 10);
-            Klient b = new Klient("Nowak", 1, TypPłatności.BonTowarowy, 10);
-            Klient c = new Klient("Kowalski", 1, TypPłatności.BonTowarowy, 10);
-            Klient d = new Klient("Dupa", 1, TypPłatności.BonTowarowy, 10);
-            Klient e = new Klient("Dupsko", 1, TypPłatności.Gotówka, 10);
+            Klient b = new Klient("Nowak", 3, TypPłatności.BonTowarowy, 15);
+            Klient c = new Klient("Kowalski", 2, TypPłatności.BonTowarowy, 5);
+            Klient d = new Klient("Dupa", 5, TypPłatności.BonTowarowy, 50);
+            Klient e = new Klient("Dupsko", 0, TypPłatności.Gotówka, 20);
             mojaLista.DodajDoGłowy(a);
             mojaLista.DodajDoGłowy(b);
             mojaLista.DodajDoGłowy(c);
@@ -355,6 +382,9 @@ namespace ListaKlientów
             mojaLista.Wyświetl();
             mojaLista.Wstaw(e, 3);
             Console.WriteLine("----");
+            mojaLista.Wyświetl();
+            mojaLista.Sort();
+            Console.WriteLine("+++++++");
             mojaLista.Wyświetl();
             //mojaLista.Zapisz("dupsko.txt");
         }
