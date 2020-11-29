@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\bin\Debug\netcoreapp3.1\Kolorowanie_obrazka.exe
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\bin\Debug\netcoreapp3.1\Kolorowanie_obrazka.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\bin\Debug\netcoreapp3.1\Kolorowanie_obrazka.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\bin\Debug\netcoreapp3.1\Kolorowanie_obrazka.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\bin\Debug\netcoreapp3.1\Kolorowanie_obrazka.dll
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\bin\Debug\netcoreapp3.1\Kolorowanie_obrazka.pdb
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.dll
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.pdb
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie1\Kolorowanie_obrazka\obj\Debug\netcoreapp3.1\Kolorowanie_obrazka.genruntimeconfig.cache

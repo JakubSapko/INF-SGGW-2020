@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kolorowanie_obrazka/1.0.0": {
+        "runtime": {
+          "Kolorowanie_obrazka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kolorowanie_obrazka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
