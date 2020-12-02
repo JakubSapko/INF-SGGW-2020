@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7ej5a7oHIcxyrVkK+ZeYTu0uwQ7byHHOs3PIPyxqM3rIzjFBkc9kxTKkizWAVQNJzzhkQWmloDaCEq0PTPyt+A==",
+  "dgSpecHash": "qEdfcYVL/O9UNUjJ0FKkUfi/+ixrF2CnfgbgpABWwh4bttHObxGIGpkLxR/suuf0dGcFIpG1aVTA+ATHp8bkKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub\\source\\repos\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\Wyzwania\\Wyzwanie3\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

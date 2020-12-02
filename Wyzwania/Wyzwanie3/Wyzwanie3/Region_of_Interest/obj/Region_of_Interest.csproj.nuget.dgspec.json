@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub\\source\\repos\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj": {}
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\Wyzwania\\Wyzwanie3\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub\\source\\repos\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj": {
+    "C:\\Users\\jakub\\Desktop\\WDPINF2020\\Wyzwania\\Wyzwanie3\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub\\source\\repos\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj",
+        "projectUniqueName": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\Wyzwania\\Wyzwanie3\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj",
         "projectName": "Region_of_Interest",
-        "projectPath": "C:\\Users\\jakub\\source\\repos\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj",
+        "projectPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\Wyzwania\\Wyzwanie3\\Wyzwanie3\\Region_of_Interest\\Region_of_Interest.csproj",
         "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub\\source\\repos\\Wyzwanie3\\Region_of_Interest\\obj\\",
+        "outputPath": "C:\\Users\\jakub\\Desktop\\WDPINF2020\\Wyzwania\\Wyzwanie3\\Wyzwanie3\\Region_of_Interest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
