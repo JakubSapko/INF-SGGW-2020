@@ -1,0 +1,7 @@
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\obj\Debug\ROBOT.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\obj\Debug\ROBOT.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\bin\Debug\ROBOT.exe
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\bin\Debug\ROBOT.pdb
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\obj\Debug\ROBOT.csproj.CopyComplete
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\obj\Debug\ROBOT.exe
+C:\Users\jakub\Desktop\WDPINF2020\Wyzwania\Wyzwanie2\Wyzwanie2\ROBOT\obj\Debug\ROBOT.pdb

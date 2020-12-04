@@ -1,0 +1,4 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13_Drzewo\obj\Debug\netcoreapp3.1\LAB13_Drzewo.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13_Drzewo\obj\Debug\netcoreapp3.1\LAB13_Drzewo.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13_Drzewo\obj\Debug\netcoreapp3.1\LAB13_Drzewo.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB13\LAB13\LAB13_Drzewo\obj\Debug\netcoreapp3.1\LAB13_Drzewo.csproj.CoreCompileInputs.cache

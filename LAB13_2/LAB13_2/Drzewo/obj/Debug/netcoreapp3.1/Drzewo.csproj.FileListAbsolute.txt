@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\bin\Debug\netcoreapp3.1\Drzewo.exe
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\bin\Debug\netcoreapp3.1\Drzewo.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\bin\Debug\netcoreapp3.1\Drzewo.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\bin\Debug\netcoreapp3.1\Drzewo.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\bin\Debug\netcoreapp3.1\Drzewo.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\bin\Debug\netcoreapp3.1\Drzewo.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.dll
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.pdb
+C:\Users\jakub\Desktop\WDPINF2020\LAB13_2\LAB13_2\Drzewo\obj\Debug\netcoreapp3.1\Drzewo.genruntimeconfig.cache
