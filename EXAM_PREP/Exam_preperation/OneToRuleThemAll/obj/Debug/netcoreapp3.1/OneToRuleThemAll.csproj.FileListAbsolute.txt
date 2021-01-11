@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.AssemblyInfo.cs
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\bin\Debug\netcoreapp3.1\OneToRuleThemAll.exe
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\bin\Debug\netcoreapp3.1\OneToRuleThemAll.deps.json
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\bin\Debug\netcoreapp3.1\OneToRuleThemAll.runtimeconfig.json
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\bin\Debug\netcoreapp3.1\OneToRuleThemAll.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\bin\Debug\netcoreapp3.1\OneToRuleThemAll.dll
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\bin\Debug\netcoreapp3.1\OneToRuleThemAll.pdb
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.dll
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.pdb
+C:\Users\jakub\Desktop\WDPINF2020\EXAM_PREP\Exam_preperation\OneToRuleThemAll\obj\Debug\netcoreapp3.1\OneToRuleThemAll.genruntimeconfig.cache
