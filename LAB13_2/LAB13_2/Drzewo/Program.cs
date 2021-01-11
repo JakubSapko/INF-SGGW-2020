@@ -5,7 +5,7 @@ namespace Z1
     class Węzeł
     {
         public int dane;
-        public int counter;
+        public int counter = 1;
 
         public Węzeł lewy;
         public Węzeł prawy;
@@ -25,12 +25,12 @@ namespace Z1
                 korzeń = w;
                 return;
             }
-            if (liczba == w.dane)
+
+            if (liczba == korzeń.dane)
             {
-                w.counter++;
+                korzeń.counter++;
                 return;
             }
-
             Węzeł aktualny;
             Węzeł ojciec;
 
