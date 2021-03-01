@@ -2,12 +2,12 @@
 
 namespace Zadanie1
 {
-    //Podejscie dla klasy
+    //Class approach
     public class Punkt
     {
-        public int x;
-        public int y;
-        public Punkt(int x, int y)
+        public double x;
+        public double y;
+        public Punkt(double x, double y)
         {
             this.x = x;
             this.y = y;
@@ -21,7 +21,31 @@ namespace Zadanie1
         {
             return Math.Sqrt(Math.Pow((x - P.x), 2) + Math.Pow((y - P.y), 2));
         }
-        public void Edit(int nx, int ny)
+        public void Edit(double nx, double ny)
+        {
+            x = nx;
+            y = ny;
+        }
+    }
+    //struct approach
+    public struct PunktP
+    {
+        public double x;
+        public double y;
+        public PunktP(double x, double y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+        public void WypiszWsp()
+        {
+            Console.WriteLine("Współrzędna x danego punktu wynosi: {0}, a współrzędna y: {1}", x, y);
+        }
+        public double Dist(PunktP P)
+        {
+            return Math.Sqrt(Math.Pow((x - P.x), 2) + Math.Pow((y - P.y), 2));
+        }
+        public void Edit(double nx, double ny)
         {
             x = nx;
             y = ny;
@@ -39,6 +63,14 @@ namespace Zadanie1
             Console.WriteLine(X.Dist(P));
             P.Edit(2, 2);
             P.WypiszWsp();
+            PunktP W = new PunktP(5, 3);
+            PunktP Z = new PunktP(0, 0);
+            W.WypiszWsp();
+            Z.WypiszWsp();
+            Console.WriteLine(W.Dist(Z));
+            Console.WriteLine(Z.Dist(W));
+            W.Edit(2, 2);
+            W.WypiszWsp();
         }
     }
 }
