@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie1", "Zadanie1\Zadanie1.csproj", "{2A5ABA70-AAE3-481C-883F-483B3AE3FBFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{799DACC2-46AA-4F09-B489-FB76A81F8E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{FF493E44-3CF2-4FE5-8DBD-8A6A59534974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A5ABA70-AAE3-481C-883F-483B3AE3FBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5ABA70-AAE3-481C-883F-483B3AE3FBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5ABA70-AAE3-481C-883F-483B3AE3FBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5ABA70-AAE3-481C-883F-483B3AE3FBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799DACC2-46AA-4F09-B489-FB76A81F8E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799DACC2-46AA-4F09-B489-FB76A81F8E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799DACC2-46AA-4F09-B489-FB76A81F8E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799DACC2-46AA-4F09-B489-FB76A81F8E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF493E44-3CF2-4FE5-8DBD-8A6A59534974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF493E44-3CF2-4FE5-8DBD-8A6A59534974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF493E44-3CF2-4FE5-8DBD-8A6A59534974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF493E44-3CF2-4FE5-8DBD-8A6A59534974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0379B2-9303-4A21-A2EE-3F704672DB98}
+	EndGlobalSection
+EndGlobal

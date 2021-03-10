@@ -1,0 +1,12 @@
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.exe
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.deps.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.runtimeconfig.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\bin\Debug\netcoreapp3.1\Zadanie3.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.AssemblyInfo.cs
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB2\SapkoJakubLAB2\Zadanie3\obj\Debug\netcoreapp3.1\Zadanie3.genruntimeconfig.cache
