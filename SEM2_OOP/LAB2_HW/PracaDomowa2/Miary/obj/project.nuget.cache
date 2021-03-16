@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3Jtt6Jz2PZBhsb+xCjxkFJRrGtWub+llXNnq/Dd2NQ6aJSOIIeNsdKfXMbPKgiKvBoaR/89cYSgBV4DVtD7dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakub\\Desktop\\INF@SGGW-2020\\SEM2_OOP\\LAB2_HW\\PracaDomowa2\\Miary\\Miary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

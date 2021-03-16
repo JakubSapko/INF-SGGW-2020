@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB3\LAB3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

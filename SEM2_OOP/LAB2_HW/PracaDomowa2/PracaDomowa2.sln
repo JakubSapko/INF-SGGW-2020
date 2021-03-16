@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie4", "Zadanie4\Zadanie4.csproj", "{708AFE41-D706-4C72-AE62-E4B44196E576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie5", "Zadanie5\Zadanie5.csproj", "{34C7C324-816D-4EB0-857F-773D6E26A607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie5", "Zadanie5\Zadanie5.csproj", "{34C7C324-816D-4EB0-857F-773D6E26A607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miary", "Miary\Miary.csproj", "{DA107527-8C47-481E-9130-C250B7C99160}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{34C7C324-816D-4EB0-857F-773D6E26A607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34C7C324-816D-4EB0-857F-773D6E26A607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34C7C324-816D-4EB0-857F-773D6E26A607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA107527-8C47-481E-9130-C250B7C99160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA107527-8C47-481E-9130-C250B7C99160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA107527-8C47-481E-9130-C250B7C99160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA107527-8C47-481E-9130-C250B7C99160}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
