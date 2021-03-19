@@ -47,9 +47,9 @@ namespace Zad5
             get => plec;
             set { plec = value; }
         }
-        public void Odczytaj()
+        public override string ToString()
         {
-            Console.WriteLine("Osoba: {0}, {1}, {2}, {3}", imie, nazwisko, rok_urodzenia, plec);
+            return (""+ imie + " " + nazwisko + ", urodzony w " + rok_urodzenia + " roku, plec: " + plec); 
         }
     }
     class Student : Osoba
@@ -70,10 +70,52 @@ namespace Zad5
                 }
             }
         }
-        public void Odczytaj()
+        public override string ToString()
         {
-            base.Odczytaj();
-            Console.WriteLine(numer_indeksu);
+            return ("Student: " + base.ToString() + " numer indeksu: " + numer_indeksu);
+        }
+    }
+    class Wykladowca : Osoba
+    {
+        string tytul;
+        public Wykladowca(string imie, string nazwisko, int rok_urodzenia, string plec, string tytul) : base(imie, nazwisko, rok_urodzenia, plec)
+        {
+            this.tytul = tytul;
+        }
+        public string Tytul
+        {
+            get => tytul;
+            set
+            {
+                tytul = value;
+            }
+        }
+        public override string ToString()
+        {
+            return ("Wykladowca: " + base.ToString() + " tytul: " + tytul);
+        }
+    }
+    class Stypendysta : Student
+    {
+        int stypendium;
+        public Stypendysta(string imie, string nazwisko, int rok_urodzenia, string plec, int nr_indeksu, int stypendium) : base(imie, nazwisko, rok_urodzenia, plec, nr_indeksu)
+        {
+            this.stypendium = stypendium;
+        }
+        public int Stypendium
+        {
+            get => stypendium;
+            set
+            {
+                if (value > 0)
+                {
+                    stypendium = value;
+                }
+            }
+        }
+        public override string ToString()
+        {
+            return ("Stypendysta: " + base.ToString() + " wysokosc stypendium: " + stypendium);
         }
     }
     class Program
@@ -87,9 +129,16 @@ namespace Zad5
             Console.WriteLine(Ja.Imie);
             Ja.Plec = "f";
             Console.WriteLine(Ja.Plec);
-            Ja.Odczytaj();
+            Console.WriteLine(Ja);
+            //Student
             Student Ja2 = new Student("Jakub", "Sapko", 1999, "m", 208499);
-            Ja2.Odczytaj();
+            Console.WriteLine(Ja2);
+            //Wykladowca
+            Wykladowca wyk = new Wykladowca("Jan", "Kowalski", 1970, "m", "drhab");
+            Console.WriteLine(wyk);
+            //Stypendysta
+            Stypendysta styp = new Stypendysta("Jakub", "Sapko", 1999, "m", 208499, 20);
+            Console.WriteLine(styp);
         }
     }
 }
