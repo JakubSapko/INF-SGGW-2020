@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\bin\Debug\netcoreapp3.1\Zad4.exe
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\bin\Debug\netcoreapp3.1\Zad4.deps.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\bin\Debug\netcoreapp3.1\Zad4.runtimeconfig.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\bin\Debug\netcoreapp3.1\Zad4.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\bin\Debug\netcoreapp3.1\Zad4.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\bin\Debug\netcoreapp3.1\Zad4.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.AssemblyInfo.cs
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB4_HW\LAB4PD\Zad4\obj\Debug\netcoreapp3.1\Zad4.genruntimeconfig.cache
