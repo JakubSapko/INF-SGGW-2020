@@ -1,0 +1,13 @@
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\bin\Debug\netcoreapp3.1\Zad1.exe
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\bin\Debug\netcoreapp3.1\Zad1.deps.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\bin\Debug\netcoreapp3.1\Zad1.runtimeconfig.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\bin\Debug\netcoreapp3.1\Zad1.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\bin\Debug\netcoreapp3.1\Zad1.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\bin\Debug\netcoreapp3.1\Zad1.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.AssemblyInfo.cs
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.dll
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.pdb
+C:\Users\jakub\Desktop\INF@SGGW-2020\SEM2_OOP\LAB5\LAB5\Zad1\obj\Debug\netcoreapp3.1\Zad1.genruntimeconfig.cache
