@@ -1,9 +1,9 @@
 vp = 5; #wartosc predkosci poczatkowej
-alfa = pi/2; #wartosc k¹ta pod jakim wystrzelono pocisk
+alfa = 0; #wartosc k¹ta pod jakim wystrzelono pocisk
 vy = vp*sin(alfa); #skladowa ygrekowa predkosci
 vx = vp*cos(alfa); #skladowa xowa predkosci
 g = 9.81;
-y0 = 0;
+y0 = 5;
 sp = [y0; vy; 0; vx]; #stany poczatkowe
 t_nr = (vy +sqrt(2*y0*g+vy^2))/g; #czas ruchu bez oporu powietrza
 
@@ -29,11 +29,13 @@ function dy = f(t, y)
   dy(4) = -k/m * (y(2)*y(2)+y(4)*y(4))^(1/2) * y(4);
 endfunction
   
+#rozwiazania ode
 t = linspace(0, t_nr, t_nr*1000);
 opt = odeset('Events', @st);
 [t,y] = ode45(@f, t, sp, opt);
 clf;
 
+#rysowanie wykresu
 hold on
   xlabel("Odleglosc [m]");
   ylabel("Wysokosc [m]");
