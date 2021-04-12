@@ -1,5 +1,5 @@
 vp = 5; #wartosc predkosci poczatkowej
-alfa = pi/3; #wartosc k¹ta pod jakim wystrzelono pocisk
+alfa = pi/2; #wartosc k¹ta pod jakim wystrzelono pocisk
 vy = vp*sin(alfa); #skladowa ygrekowa predkosci
 vx = vp*cos(alfa); #skladowa xowa predkosci
 g = 9.81;
@@ -29,12 +29,24 @@ function dy = f(t, y)
   dy(4) = -k/m * (y(2)*y(2)+y(4)*y(4))^(1/2) * y(4);
 endfunction
   
-  t = linspace(0, t_nr, t_nr*1000);
-  opt = odeset('Events', @st);
-  [t,y] = ode45(@f, t, sp, opt);
-  clf;
-  
-  
-  
+t = linspace(0, t_nr, t_nr*1000);
+opt = odeset('Events', @st);
+[t,y] = ode45(@f, t, sp, opt);
+clf;
+
+hold on
+  xlabel("Odleglosc [m]");
+  ylabel("Wysokosc [m]");
+  mY = max(y(:,1));
+  mX = y(end, 3);
+  y(end,1) = 0;
+  note = [sprintf("Maks. wysokosc = %6.3fm", mY);
+          sprintf("Maks. zasieg rzut = %6.3fm", mX);
+          sprintf("Czas ruchu = %6.3fs", t(end))];
+  annotation('textbox', [0.7, 0.8, 0.1, 0.1], 'String', note, 'linestyle', "none", 'fontsize', 14);
+  grid on;
+  plot(y(:, 3), y(:, 1));
+  print -dpng rzut.png;
+hold off
   
   
